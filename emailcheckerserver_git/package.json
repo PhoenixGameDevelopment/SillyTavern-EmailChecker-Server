@@ -1,0 +1,9 @@
+{
+    "name": "Email Checker Server",
+    "type": "commonjs",
+    "private": true,
+    "dependencies": {
+        "imapflow": "^1.0.196",
+        "mailparser": "^3.7.4"
+    }
+}
