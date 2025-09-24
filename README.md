@@ -51,7 +51,7 @@ To use, simply click on the down arrow next to "Email Checker", set the number o
 
 For any questions or comments, I can be contacted at:
 
-contact@phoenixgamedevelopment.com.
+contact@NOSPAM.phoenixgamedevelopment.com
 
 
 
